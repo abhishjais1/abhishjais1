@@ -11,12 +11,6 @@
 - 🎓 Final year student at **IIT Kharagpur** (2021 – 2026)
 - 📫 Reach me at **abhishek942a@gmail.com**
 
-## 🛠️ What I've Worked On
-- **WhatsApp Automation Platform**: a workflow engine that runs customer conversations from the database, a TCP-socket proxy for outgoing API calls, and one-click Meta OAuth onboarding
-- **AI Product Identifier**: a Gemini-powered service that matches invoice lines to the correct product code from a catalog
-- **MailForge**: a drag-and-drop email template editor with per-customer data isolation
-- **Job Application Tracker**: a full-stack app with secure JWT login, rotating refresh tokens, and role-based access
-
 ## 💻 Tech Stack
 
 **Languages**<br/>
@@ -61,19 +55,3 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)
-
-## 🏅 Achievements
-- **Codeforces Expert** (1617) · **CodeChef 4-star** (1829) · **LeetCode Knight** (1874)
-- **NTSE Scholar** 2019 · **Regional Mathematics Olympiad** 2018 qualifier
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=abhishjais1&theme=tokyonight" alt="Profile details"/>
-</p>
-<p align="center">
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=abhishjais1&theme=tokyonight" alt="GitHub stats"/>
-  <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=abhishjais1&theme=tokyonight" alt="Top languages"/>
-</p>
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=abhishjais1&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
-</p>
