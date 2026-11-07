@@ -8,10 +8,7 @@
 </p>
 
 ## 💫 About Me
-- 🎓 Integrated B.S. + M.S. at **IIT Kharagpur** (2021 – 2026)
-- 💼 Software Development Intern at **Inventrik**: Java and Spring Boot backends, WhatsApp automation, and Gemini-powered AI features
-- 🔬 Research Intern at **TULIP-Lab, Deakin University**: image segmentation with Gaussian Mixture Models (High Distinction)
-- ⚙️ I enjoy backend systems: APIs, databases, security, networking, and making things fast and reliable
+- 🎓 Final year student at **IIT Kharagpur** (2021 – 2026)
 - 📫 Reach me at **abhishek942a@gmail.com**
 
 ## 🛠️ What I've Worked On
